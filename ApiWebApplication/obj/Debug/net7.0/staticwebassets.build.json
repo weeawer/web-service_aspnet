@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zPWFGtTeAUiHcMzKW1Oha7TNKKxfYwXoSl52qbUuU4U=",
+  "Source": "ApiWebApplication",
+  "BasePath": "_content/ApiWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
